@@ -3,6 +3,9 @@
 An Excel VBA-based data quality and profiling solution designed to analyse source datasets before data migration, transformation or reporting.
 
 The tool combines **column-level data quality profiling** with **row-level exception reporting**, helping identify data issues quickly and trace them back to the affected source records.
+## Preview
+
+![Data Quality Report](quality-report.png)
 
 ## Key Features
 
