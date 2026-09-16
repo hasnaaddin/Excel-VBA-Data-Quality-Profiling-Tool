@@ -44,6 +44,10 @@ A **Refresh Invalid Emails** button reruns the validation against the latest sou
 
 Blank email addresses are handled separately by the Missing Data check.
 
+### Email Validation Example
+
+![Invalid Email Validation](invalid-emails.png)
+
 ## UK Postcode Validation
 
 The postcode validation engine uses VBA and regular-expression pattern matching to validate UK postcode structures.
