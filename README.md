@@ -60,6 +60,10 @@ A **Refresh Invalid Postcodes** button allows the validation report to be regene
 
 Blank postcodes are handled separately by the Missing Data check.
 
+### UK Postcode Validation Example
+
+![Invalid UK Postcode Validation](invalid-postcodes.png)
+
 ## Row-Level Exception Reporting
 
 The workbook provides dedicated worksheets for investigating:
